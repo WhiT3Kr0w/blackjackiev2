@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "Ace",
+    "value": 11
+  },
+  {
+    "rank": "Two",
+    "value": 2
+  },
+  {
+    "rank": "Three",
+    "value": 3
+  },
+  {
+    "rank": "Four",
+    "value": 4
+  },
+  {
+    "rank": "Five",
+    "value": 5
+  },
+  {
+    "rank": "Six",
+    "value": 6
+  },
+  {
+    "rank": "Seven",
+    "value": 7
+  },
+  {
+    "rank": "Eight",
+    "value": 8
+  },
+  {
+    "rank": "Nine",
+    "value": 9
+  },
+  {
+    "rank": "Ten",
+    "value": 10
+  },
+  {
+    "rank": "Jack",
+    "value": 10
+  },
+  {
+    "rank": "Queen",
+    "value": 10
+  },
+  {
+    "rank": "King",
+    "value": 10
+  }
+]
